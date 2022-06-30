@@ -1,0 +1,5 @@
+C:\Users\aykhanvn\Desktop\polymorfizm 2\Polymorfizm2\Polymorfizm2\obj\Debug\netcoreapp3.1\Polymorfizm2.csproj.AssemblyReference.cache
+C:\Users\aykhanvn\Desktop\polymorfizm 2\Polymorfizm2\Polymorfizm2\obj\Debug\netcoreapp3.1\Polymorfizm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aykhanvn\Desktop\polymorfizm 2\Polymorfizm2\Polymorfizm2\obj\Debug\netcoreapp3.1\Polymorfizm2.AssemblyInfoInputs.cache
+C:\Users\aykhanvn\Desktop\polymorfizm 2\Polymorfizm2\Polymorfizm2\obj\Debug\netcoreapp3.1\Polymorfizm2.AssemblyInfo.cs
+C:\Users\aykhanvn\Desktop\polymorfizm 2\Polymorfizm2\Polymorfizm2\obj\Debug\netcoreapp3.1\Polymorfizm2.csproj.CoreCompileInputs.cache
